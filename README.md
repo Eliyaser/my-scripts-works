@@ -1,6 +1,5 @@
-# scripts
 
-###TO run scripts
+###TO Run Scripts
 ```
 python <filename>
 ```
