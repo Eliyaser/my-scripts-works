@@ -1,4 +1,7 @@
-
+##first Run
+```
+pip install -r requirements.txt
+```
 ###TO Run Scripts
 ```
 python <filename>
